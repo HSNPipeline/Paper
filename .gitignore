@@ -1,2 +1,5 @@
 # Ignore notebook checkpoint files
 .ipynb_checkpoints/*
+
+# Ignore generated figure files
+figs/
