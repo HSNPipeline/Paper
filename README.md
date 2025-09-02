@@ -15,7 +15,7 @@ These notebooks include:
 Additional analyses in the paper draw from other elements of the pipeline.
 
 For example, the literature collection and analysis reported in the paper is done in the Literature repository:
-https://github.com/HSUPipeline/Literature
+https://github.com/HSNPipeline/Literature
 
 ## Reference
 
@@ -26,4 +26,4 @@ A preprint associated with this repository / project is coming soon.
 The code within this repository has the following dependencies:
 - [neurodsp](https://github.com/neurodsp-tools/neurodsp)
 - [spiketools](https://github.com/neurodsp-tools/neurodsp)
-- [hsntools](https://github.com/HSUpipeline/convnwb)
+- [hsntools](https://github.com/HSNpipeline/hsntools)
