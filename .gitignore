@@ -2,4 +2,5 @@
 .ipynb_checkpoints/*
 
 # Ignore generated figure files
-figs/
+img/
+report/
